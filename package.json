@@ -16,7 +16,12 @@
     "shariff",
     "socialmedia"
   ],
-  "author": "Oliver Hader, Andreas Reiher",
+  "author": {
+    "name": "Oliver Hader"
+  },
+  "contributors": {
+      "name": "Andreas Reiher"
+    },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/HofUniversityIWS/angular2-shariff/issues"
