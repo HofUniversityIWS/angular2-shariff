@@ -22,7 +22,7 @@ ALT CODE ENDE */
 
 
 @Injectable()
-export class Angular2_ShariffLoader {
+export class ShariffLoader {
     private _scriptLoadingPromise: Promise<void>;
 
     // ALT CODE
