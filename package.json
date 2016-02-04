@@ -1,0 +1,25 @@
+{
+  "name": "angular2-shariff",
+  "version": "0.0.1",
+  "description": "Angular2 component to integrate social media button widget \"Shariff\"",
+  "main": "src/services/angular2-shariff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HofUniversityIWS/angular2-shariff.git"
+  },
+  "keywords": [
+    "angular2",
+    "ng2",
+    "shariff",
+    "socialmedia"
+  ],
+  "author": "Andreas Reiher <mail@andreas-reiher.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HofUniversityIWS/angular2-shariff/issues"
+  },
+  "homepage": "https://github.com/HofUniversityIWS/angular2-shariff#readme"
+}
