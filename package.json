@@ -11,12 +11,12 @@
     "url": "git+https://github.com/HofUniversityIWS/angular2-shariff.git"
   },
   "keywords": [
-    "angular2",
     "ng2",
+    "angular2",
     "shariff",
     "socialmedia"
   ],
-  "author": "Andreas Reiher <mail@andreas-reiher.de>",
+  "author": "Oliver Hader, Andreas Reiher",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/HofUniversityIWS/angular2-shariff/issues"
