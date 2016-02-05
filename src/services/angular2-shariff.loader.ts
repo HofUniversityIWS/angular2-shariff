@@ -42,13 +42,13 @@ export class ShariffLoader {
         script.type = 'text/javascript';
         script.async = true;
         script.defer = true;
-        script.src = "src/js/shariff.complete.js";
+        script.src = "../js/shariff.complete.js";
         document.body.appendChild(script);
 
         // CSS-File einbinden
         const css = document.createElement('style');
         css.type = 'text/css';
-        script.src = "src/css/shariff.complete.css";
+        script.src = "../css/shariff.complete.css";
         document.head.appendChild(css);
 
         return this._scriptLoadingPromise;

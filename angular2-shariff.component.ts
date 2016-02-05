@@ -72,7 +72,7 @@ export class ShariffComponent implements OnInit, OnChanges
 
         this._shariffElement = this._elementRef.nativeElement.querySelector('.shariff');
         if (changes['services']) {
-            var x = new Shariff(this._shariffElement, {orientation, services,theme});
+            var x = Shariff(this._shariffElement, {orientation, services,theme});
         }
     }
 }

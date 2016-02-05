@@ -1,8 +1,8 @@
 {
   "name": "angular2-shariff",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Angular2 component to integrate social media button widget \"Shariff\"",
-  "main": "src/services/angular2-shariff.js",
+  "main": "src/services/angular2-shariff.component.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,11 +20,18 @@
     "name": "Oliver Hader"
   },
   "contributors": {
-      "name": "Andreas Reiher"
-    },
+    "name": "Andreas Reiher"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/HofUniversityIWS/angular2-shariff/issues"
   },
-  "homepage": "https://github.com/HofUniversityIWS/angular2-shariff#readme"
+  "homepage": "https://github.com/HofUniversityIWS/angular2-shariff#readme",
+  "gitHead": "4444010f38a697e28d6458df8690b93263315be9",
+  "readme": "README - angular2-shariff\n=========================\n\n\ntoDo:\n- Node Module anlegen\n- Testen\n- Dynamisches Laden von JS / CSS\n\n",
+  "readmeFilename": "README.md",
+  "_id": "angular2-shariff@0.0.1",
+  "_shasum": "1a2d01ea5cdeb3175deeeb9253ba70438a1dd050",
+  "_from": "git+https://github.com/HofUniversityIWS/angular2-shariff.git#master",
+  "_resolved": "git+https://github.com/HofUniversityIWS/angular2-shariff.git#4444010f38a697e28d6458df8690b93263315be9"
 }
